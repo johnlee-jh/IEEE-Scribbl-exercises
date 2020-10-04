@@ -30,7 +30,7 @@ To submit: A link to your Forked Github repo
 5. Create an *assets* folder and store your CSS/JavaScript files there
 6. Finish before the next weekly meeting, so that you can get review comments!
 
-To submit: A link to your Forked Github repo
+To submit: A link to your website through Github Pages
 
 **Week 3:**
 
