@@ -25,7 +25,7 @@ To submit: A link to your Forked Github repo
 
 1. Create a new page on HTML, name it *anything*.html
 2. Add a navigation bar to your website, and link your new HTML page to the navigation bar
-3. Make it responsive for 1280x800 (normal screen), 1600x900 (wide screen), and 420x900 (mobile)
+3. Make it responsive for 1280x800 (normal screen) and 420x900 (mobile)
 4. Implement at least 2 JavaScript functions for various features
 5. Create an *assets* folder and store your CSS/JavaScript files there
 6. Finish before the next weekly meeting, so that you can get review comments!
